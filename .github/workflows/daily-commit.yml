@@ -27,8 +27,8 @@ jobs:
 
       - name: Configure Git identity
         run: |
-          git config user.name "MohamedSameh410"
-          git config user.email "95502692+MohamedSameh410@users.noreply.github.com"
+          git config --global user.name "MohamedSameh410"
+          git config --global user.email "95502692+MohamedSameh410@users.noreply.github.com"
 
       - name: Write dynamic log entry
         run: |
