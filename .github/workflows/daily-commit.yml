@@ -3,8 +3,6 @@ name: Daily Auto Commit
 on:
   schedule:
     - cron: '0 0  * * *'
-    - cron: '0 8  * * *'
-    - cron: '0 16 * * *'
 
   workflow_dispatch:
     inputs:
@@ -59,5 +57,5 @@ jobs:
           git diff --cached --quiet && echo "Nothing to commit — skipping." && exit 0
           DATE=$(date -u '+%Y-%m-%d')
           TIME=$(date -u '+%H:%M')
-          git commit -m "chore: activity log $DATE $TIME UTC [skip ci]"
+          git commit -m "The snake fed at $DATE $TIME UTC"
           git push
