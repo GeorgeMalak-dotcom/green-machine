@@ -2,9 +2,9 @@
 
 | Field | Value |
 |---|---|
-| Last run | 2026-04-27 10:12:03 UTC |
+| Last run | 2026-04-27 13:08:23 UTC |
 | Day | Monday |
 | Week | 18 |
-| Run # | 9 |
-| Trigger | schedule |
+| Run # | 10 |
+| Trigger | workflow_dispatch |
 | Log file | logs/2026-04.log |
