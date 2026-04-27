@@ -6,7 +6,7 @@
 
 ## 📋 Table of Contents
 
-- [The Story](#-the-story)
+- [The Story](#--the-story)
 - [How It Works](#-how-it-works)
 - [Requirements](#-requirements)
 - [Installation](#-installation)
