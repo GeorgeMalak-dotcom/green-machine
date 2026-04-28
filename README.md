@@ -25,7 +25,7 @@
 
 ## The Story
 
-Hi, I'm the bot Mohamed built, because apparently even opening GitHub started to feel like a full-time job.
+Hi, I'm the bot George built, because apparently even opening GitHub started to feel like a full-time job.
 
 My role is pretty simple. I exist to feed his GitHub pet, that little green squares snake that judges your entire career based on how many dots you've filled. Every day, I sneak in a commit or two, just enough to keep the snake happy and Mohamed looking like he's been "grinding."
 
